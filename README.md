@@ -3,10 +3,11 @@ A simple Python system for managing books, members, and borrowing records.
 
 ##Files
 
-`operations.py` — Core functions 
-`demo.py` — Example run
-`tests.py` — Basic tests
-`DesignRational.pdf` Explanation of data structure choices
+`operations.py` All Core functions 
+`demo.py` — Demo script to show how it runs
+`tests.py` — Simple test cases using assert
+`UML.png` Hand Drawn UML diagram
+`DesignRational.pdf` Three pages explanation why I used dict, list and tuple.
 
 ## Run Instructions
 ```bash
