@@ -5,7 +5,8 @@ A simple Python system for managing books, members, and borrowing records.
 
 `operations.py` — Core functions  
 `demo.py` — Example run  
-`tests.py` — Basic tests   
+`tests.py` — Basic tests 
+`DesignRational.pdf` Explanation of data structure choices
 
 ## Run Instructions
 ```bash
