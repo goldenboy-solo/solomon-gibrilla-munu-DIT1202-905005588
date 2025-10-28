@@ -1,2 +1,14 @@
-# solomon-gibrilla-munu-DIT1202-905005588
-Objected-Oriented Programming Assignment 1 (Mini Library Management System)
+#Mini Library Management System
+A simple Python system for managing books, members, and borrowing records.
+
+##Files
+`operations.py` — Core functions  
+`demo.py` — Example run  
+`tests.py` — Basic tests  
+`UML.png` — Hand-drawn UML diagram  
+- `DesignRationale.pdf` — Explanation of data structure choices  
+
+## Run Instructions
+```bash
+python demo.py
+python tests.py
