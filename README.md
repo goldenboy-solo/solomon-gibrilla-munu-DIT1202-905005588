@@ -5,9 +5,7 @@ A simple Python system for managing books, members, and borrowing records.
 
 `operations.py` — Core functions  
 `demo.py` — Example run  
-`tests.py` — Basic tests  
-`UML.png` — Hand-drawn UML diagram  
-- `DesignRationale.pdf` — Explanation of data structure choices  
+`tests.py` — Basic tests   
 
 ## Run Instructions
 ```bash
